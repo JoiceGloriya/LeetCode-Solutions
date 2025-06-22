@@ -18,6 +18,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
@@ -106,6 +107,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0040-combination-sum-ii) |
