@@ -64,6 +64,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
@@ -445,4 +446,8 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
