@@ -74,6 +74,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -218,6 +219,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0937-online-stock-span](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
