@@ -15,12 +15,14 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -47,6 +49,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0025-reverse-nodes-in-k-group](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
 ## Math
 |  |
@@ -211,6 +214,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
