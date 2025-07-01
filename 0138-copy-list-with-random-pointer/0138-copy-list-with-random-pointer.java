@@ -52,14 +52,12 @@ class Solution {
         while (temp != null) {
             Node copyNode = temp.next;
             dTemp.next = copyNode;
-            dTemp = dTemp.next;
             temp.next = copyNode.next;
             if (copyNode.next != null)
                 copyNode.next = copyNode.next.next;
-            temp = temp.next;
-            
+            temp = temp.next;    
+            dTemp = dTemp.next;
         }
         return dummyHead.next;
     }
-
 }
