@@ -13,7 +13,7 @@ class Solution {
 
     void backtrack(int startIndex, String digits, StringBuilder a, List<String> list, String[] keys) {
         if(startIndex == digits.length()) {
-            list.add(String.valueOf(a));
+            list.add(a.toString());
             return;
         }
         String str = keys[digits.charAt(startIndex) - '0'];
