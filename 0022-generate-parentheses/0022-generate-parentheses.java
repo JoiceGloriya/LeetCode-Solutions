@@ -6,7 +6,7 @@ class Solution {
     }
 
     void DFS(List<String> list, String str, int open, int close, int maxLimit) {
-        if(str.length() == 2 * maxLimit) {
+        if((open == maxLimit && close == maxLimit)) { //if((open + close) == 2 * maxLimit)
             list.add(str);
             return;
         }
