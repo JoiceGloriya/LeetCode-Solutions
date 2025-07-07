@@ -21,9 +21,21 @@
 //  * int param_1 = obj.next(price);
 //  */
 class StockSpanner {
-//Optimal : I ve to keep track of PGE element at evry instant, so store it in stk in terms of pairs[] where pairs[0] -> currVal and pairs[1] -> currIndex
-    Stack<int[]> stk = new Stack<>();
+    //Optimal : I ve to keep track of PGE element at evry instant, so store it in stk in terms of pairs[] where pairs[0] -> currVal and pairs[1] -> currIndex
+
+    class Pair {
+        int val = 0;
+        int ct = 0;
+
+        public Pair(int val, int ct) {
+            this.val = val;
+            this.ct = ct;
+        }
+    }
+
+    Stack<Pair> stk = new Stack<>();
     int index = -1;
+
     public StockSpanner() {
         stk = new Stack<>();
     }
@@ -31,10 +43,10 @@ class StockSpanner {
     public int next(int price) {
         index = index + 1;
         int ans = 0;
-        while(!stk.isEmpty() && stk.peek()[0] <= price)
+        while (!stk.isEmpty() && stk.peek().val <= price)
             stk.pop();
-        ans = index - ((stk.isEmpty())? -1 : stk.peek()[1]);
-        stk.push(new int[]{price, index});
+        ans = index - ((stk.isEmpty()) ? -1 : stk.peek().ct);
+        stk.push(new Pair(price, index));
         return ans;
     }
 }
