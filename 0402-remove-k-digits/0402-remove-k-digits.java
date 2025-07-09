@@ -18,24 +18,24 @@ class Solution {
         while (!stk.isEmpty()) {
             str = str.append(stk.pop());
         }
-        while (str.length() != 0 && str.charAt(str.length() - 1) == '0') // trim-off leading zeroes
-            str.deleteCharAt(str.length() - 1);
+        str.reverse();
+        while (str.length() != 0 && str.charAt(0) == '0') // trim-off leading zeroes
+            str.deleteCharAt(0);
         if (str.length() == 0)
             return "0";
-        reverse(str);
         return str.toString();
     }
 
-    void reverse(StringBuilder str) {
-        int start = 0;
-        int end = str.length() - 1;
-        while (start < end) {
-            char temp = str.charAt(start);
-            str.setCharAt(start, str.charAt(end));
-            str.setCharAt(end, temp);
+    // void reverse(StringBuilder str) {
+    //     int start = 0;
+    //     int end = str.length() - 1;
+    //     while (start < end) {
+    //         char temp = str.charAt(start);
+    //         str.setCharAt(start, str.charAt(end));
+    //         str.setCharAt(end, temp);
 
-            start++;
-            end--;
-        }
-    }
+    //         start++;
+    //         end--;
+    //     }
+    // }
 }
