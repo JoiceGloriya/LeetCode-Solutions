@@ -14,12 +14,14 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode q) {  
-        // TC and SC -> O(min(P, Q))
-        if(p == null && q == null) return true;
-        if(p == null || q == null) return false; // then lesser num of nodes in either one of 'em
-        if(p.val == q.val) 
-            return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
-        return false;
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        // TC and SC -> O(min. ht of(P, Q))
+        if (p == null && q == null)
+            return true;
+        if (p == null || q == null)
+            return false; // then lesser num of nodes in either of trees' subtree
+
+        return p.val == q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+
     }
 }
