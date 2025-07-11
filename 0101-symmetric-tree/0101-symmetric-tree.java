@@ -23,7 +23,6 @@ class Solution {
     boolean compute(TreeNode leftNode, TreeNode rightNode) {
         if(leftNode == null && rightNode == null) return true;
         if(leftNode == null || rightNode == null) return false;
-        if(leftNode.val != rightNode.val) return false;
-        return compute(leftNode.left, rightNode.right) && compute(leftNode.right, rightNode.left);
+        return leftNode.val == rightNode.val && compute(leftNode.left, rightNode.right) && compute(leftNode.right, rightNode.left);
     }
 }
