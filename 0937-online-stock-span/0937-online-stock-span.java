@@ -15,11 +15,6 @@
 //     }
 // }
 
-// /**
-//  * Your StockSpanner object will be instantiated and called as such:
-//  * StockSpanner obj = new StockSpanner();
-//  * int param_1 = obj.next(price);
-//  */
 class StockSpanner {
     //Optimal : I ve to keep track of PGE element at evry instant, so store it in stk in terms of pairs[] where pairs[0] -> currVal and pairs[1] -> currIndex
 
@@ -42,17 +37,10 @@ class StockSpanner {
 
     public int next(int price) {
         index = index + 1;
-        int ans = 0;
         while (!stk.isEmpty() && stk.peek().val <= price)
             stk.pop();
-        ans = index - ((stk.isEmpty()) ? -1 : stk.peek().ct);
+        int ans = index - ((stk.isEmpty()) ? -1 : stk.peek().ct);
         stk.push(new Pair(price, index));
         return ans;
     }
 }
-
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner obj = new StockSpanner();
- * int param_1 = obj.next(price);
- */
