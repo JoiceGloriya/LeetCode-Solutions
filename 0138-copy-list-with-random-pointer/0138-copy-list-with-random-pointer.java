@@ -13,11 +13,11 @@ class Node {
 }
 */
 
+// TC -> O(3N) SC -> O(N) => [this is reqd in the question]
 class Solution {
     public Node copyRandomList(Node head) {
         if (head == null)
             return null;
-        // TC -> O(3N) SC -> O(N) => [this is reqd in the question]
         createCopyNodes(head);
         connectRandomPointers(head);
         return connectNextPointers(head);
@@ -49,12 +49,15 @@ class Solution {
         Node dummyHead = new Node(-1);
         Node temp = head;
         Node dTemp = dummyHead;
+
         while (temp != null) {
             Node copyNode = temp.next;
             dTemp.next = copyNode;
-            temp.next = copyNode.next;
+            temp.next = temp.next.next;
+
             if (copyNode.next != null)
                 copyNode.next = copyNode.next.next;
+
             temp = temp.next;    
             dTemp = dTemp.next;
         }
