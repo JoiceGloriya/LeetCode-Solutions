@@ -162,6 +162,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
@@ -213,6 +214,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Stack
 |  |
@@ -406,6 +408,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
