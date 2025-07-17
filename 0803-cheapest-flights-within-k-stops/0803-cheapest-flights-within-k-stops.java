@@ -49,7 +49,7 @@ class Solution {
             for (Pair pair : adj.get(node)) {
                 int node1 = pair.node;
                 int wt1 = pair.wt;
-                if (dis + wt1 < distance[node1] && stops <= k) {
+                if (dis + wt1 < distance[node1] ) {
                     distance[node1] = dis + wt1;
                     queue.offer(new Tuple(stops + 1, node1, distance[node1]));
                 }
