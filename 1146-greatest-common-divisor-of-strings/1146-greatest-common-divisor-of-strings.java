@@ -4,7 +4,8 @@ class Solution {
 
         if(str1.equals(str2)) return str1;
 
-        if(str1.startsWith(str2)) return gcdOfStrings(str1.substring(str2.length()), str2);
+        if(str1.endsWith(str2)) return gcdOfStrings(str1.substring(0, str1.length() - str2.length()), str2);
+        // Keeps trimming the prefix (str2) from str1
         return "";
     }
 }
