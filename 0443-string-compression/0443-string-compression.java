@@ -6,14 +6,14 @@ class Solution {
 
         for (int i = 0; i < chars.length && j < chars.length; i++) {
             char c = chars[i];
-            if (i > 0 && c != prev) {
+            if ( c != prev) {
                 chars[j] = prev;
                 j++;
                 if (ct != 1) {
                     String s = String.valueOf(ct);
                     for (int k = 0; k < s.length(); k++) {
                         chars[j] = s.charAt(k);
-                    j++;
+                        j++;
                     }
 
                 }
