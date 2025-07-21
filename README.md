@@ -21,6 +21,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
@@ -130,6 +131,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
