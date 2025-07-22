@@ -47,6 +47,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [1078-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -332,6 +334,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
