@@ -10,7 +10,7 @@ class Solution {
         for (int edge[] : prerequisites) {
             int u = edge[0];
             int v = edge[1];
-            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
 
         int[] indegree = new int[numCourses];
@@ -31,6 +31,7 @@ class Solution {
         while(!queue.isEmpty()) {
             ct++;
             int num = queue.poll();
+            
             for (int i : adj.get(num)) {
                 indegree[i]--;
                 if(indegree[i] == 0) {
