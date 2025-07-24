@@ -119,6 +119,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0678-valid-parenthesis-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -180,6 +181,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -236,6 +238,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0200-number-of-islands) |
+| [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
