@@ -20,9 +20,7 @@ public class Codec {
         sb.append(root.val + " ");
 
         while (!queue.isEmpty()) {
-            int size = queue.size();
-
-            for (int i = 0; i < size; i++) {
+           
             TreeNode node = queue.poll();
 
                 if (node.left == null) {
@@ -40,7 +38,7 @@ public class Codec {
                 }
 
             }
-        }
+        
         return sb.toString();
     }
 
