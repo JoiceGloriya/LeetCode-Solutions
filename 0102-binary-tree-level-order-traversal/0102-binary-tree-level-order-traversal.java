@@ -29,12 +29,14 @@ class Solution {
             for (int i = 0; i < queueSize; i++) {
                 TreeNode node  = queue.poll();
                 arr.add(node.val);
+
                 if (node.left != null)
                     queue.offer(node.left);
                 if (node.right != null)
                     queue.offer(node.right);
             }
-            list.add(arr);
+
+            list.add(new ArrayList<>(arr));
         }
         return list;
     }
