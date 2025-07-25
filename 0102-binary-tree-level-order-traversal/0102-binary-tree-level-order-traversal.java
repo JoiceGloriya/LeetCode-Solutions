@@ -23,8 +23,8 @@ class Solution {
         queue.offer(root);
 
         while (!queue.isEmpty()) {
-            int queueSize = queue.size();
             List<Integer> arr = new ArrayList<>();
+            int queueSize = queue.size();
 
             for (int i = 0; i < queueSize; i++) {
                 TreeNode node  = queue.poll();
@@ -36,7 +36,7 @@ class Solution {
                     queue.offer(node.right);
             }
 
-            list.add(new ArrayList<>(arr));
+            list.add(arr);
         }
         return list;
     }
