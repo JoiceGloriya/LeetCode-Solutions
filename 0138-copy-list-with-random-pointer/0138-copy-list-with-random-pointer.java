@@ -37,9 +37,8 @@ class Solution {
         Node temp = head;
         while (temp != null) {
             Node copyNode = temp.next;
-            if (temp.random == null)
-                copyNode.random = null;
-            else
+            if (temp.random != null)
+                
                 copyNode.random = temp.random.next;
             temp = temp.next.next;
         }
