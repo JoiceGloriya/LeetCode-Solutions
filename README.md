@@ -82,6 +82,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0020-valid-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
@@ -108,6 +109,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0062-unique-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0124-binary-tree-maximum-path-sum) |
