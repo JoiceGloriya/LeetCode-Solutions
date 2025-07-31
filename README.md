@@ -186,6 +186,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1036-rotting-oranges) |
@@ -296,6 +297,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Database
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -363,10 +366,12 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -380,6 +385,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0540-single-element-in-a-sorted-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Ordered Set
 |  |
 | ------- |
@@ -548,6 +554,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Combinatorics
 |  |
