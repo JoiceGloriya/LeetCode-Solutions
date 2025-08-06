@@ -20,6 +20,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
@@ -78,6 +79,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -104,6 +106,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0045-jump-game-ii) |
