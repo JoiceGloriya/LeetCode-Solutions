@@ -31,6 +31,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0443-string-compression](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -129,6 +130,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -196,6 +198,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0540-single-element-in-a-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
+| [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0940-fruit-into-baskets) |
@@ -325,6 +328,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
