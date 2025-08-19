@@ -77,6 +77,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [1146-greatest-common-divisor-of-strings](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3790-fruits-into-baskets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
