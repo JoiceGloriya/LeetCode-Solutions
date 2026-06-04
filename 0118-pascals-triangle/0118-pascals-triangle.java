@@ -1,24 +1,24 @@
 class Solution {
-
-    private List<Integer> generateRow(int row) {
-        int ans = 1;
-        List<Integer> rowList = new ArrayList<>();
-        rowList.add(ans);
-        for(int i = 1; i < row; i ++) {
-            ans = ans * (row - i);
-            ans = ans / i;
-            rowList.add(ans);
-        }
-        return rowList;
-    }
-
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> pascalTriangle = new ArrayList<>();
-        for(int i = 1; i <= numRows; i ++)
-        pascalTriangle.add(generateRow(i));
+        List<List<Integer>> ans = new ArrayList<>();
 
-        return pascalTriangle;
-        
+        for(int i = 1; i <= numRows; i ++) 
+            ans.add(generateRow(i));
+
+        return ans;
+    } 
+
+    List<Integer> generateRow (int numRow) {
+        int ans = 1;
+        List<Integer> list = new ArrayList<>();
+        list.add(1); // 1element is added here
+
+        for(int i = 1; i < numRow; i ++) { // r-1 elements added here
+            ans = ans * (numRow - i);
+            ans = ans / i;
+            list.add(ans);
+        }
+
+        return list;
     }
-
 }
