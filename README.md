@@ -69,6 +69,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0070-climbing-stairs) |
@@ -164,6 +165,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0040-combination-sum-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0056-merge-intervals) |
@@ -270,6 +272,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0036-valid-sudoku](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0200-number-of-islands) |
