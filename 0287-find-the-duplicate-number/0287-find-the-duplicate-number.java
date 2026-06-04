@@ -1,26 +1,31 @@
 class Solution {
-    
-        public static int findDuplicate(int[] nums) {
-        int i = 0;
-        while (i < nums.length) {
-            int exp = nums[i] - 1;
-            if(nums[i] != (i + 1)) {
-            if ( nums[i] != nums[exp]) {
-                swap(nums, i, exp);
-            }
-            else {
-                return nums[i];
-            }
-            }
-            else {
-                i++;
-            }
+    public int findDuplicate(int[] nums) {
+        // Set<Integer> seen = new HashSet<>();
+
+        // for(int i = 0; i < nums.length; i ++) {
+        //     if(seen.contains(nums[i])) return nums[i];
+        //     seen.add(nums[i]);
+        // }
+        // return -1;
+
+        //Floyd's Cycle
+
+        int slow = nums[0];
+        int fast = nums[0];
+
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+
+        slow = nums[0];
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return  0;
+
+        return slow;
+
     }
-    private static void swap(int[] arr, int first, int last) {
-        int temp = arr[first];
-        arr[first] = arr[last];
-        arr[last] = temp;
-    }
-    }
+}
