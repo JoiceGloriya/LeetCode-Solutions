@@ -187,6 +187,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0200-number-of-islands) |
@@ -427,6 +428,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
