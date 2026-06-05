@@ -208,6 +208,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
@@ -433,6 +434,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
