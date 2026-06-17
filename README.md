@@ -1,6 +1,6 @@
 # *LeetCode-Solutions*
 
-Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel free to check' em out!
+Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions. Feel free to check' em out!
 
 
 <!---LeetCode Topics Start-->
