@@ -12,13 +12,16 @@ class Solution {
         if (s.length() == 1) {
             return s;
         }
+        
         int n = s.length();
         String finalPalindrome = s.substring(0, 1);
         for (int i = 0; i < n - 1; i++) {
             String oddCenteredPalindrome = findPalindrome(s, i, i);
             String evenCenteredPalindrome = findPalindrome(s, i, i + 1);
+
             if (oddCenteredPalindrome.length() > finalPalindrome.length())
                 finalPalindrome = oddCenteredPalindrome;
+
             if (evenCenteredPalindrome.length() > finalPalindrome.length())
                 finalPalindrome = evenCenteredPalindrome;
         }
