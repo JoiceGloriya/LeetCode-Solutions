@@ -27,6 +27,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
@@ -98,6 +99,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0297-serialize-and-deserialize-binary-tree) |
