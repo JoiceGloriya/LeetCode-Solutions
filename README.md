@@ -79,6 +79,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
