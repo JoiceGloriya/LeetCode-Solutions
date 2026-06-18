@@ -21,7 +21,7 @@ class Solution {
             reverse(temp, 0, temp.length - 1);
             word = new StringBuilder(new String(temp));
 
-            if (ans.length() > 0)
+            if (ans.length() > 0) //shdnt wrk fr 1st word
                 ans.append(" ");
             ans.append(word);
         }
