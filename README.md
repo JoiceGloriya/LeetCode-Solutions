@@ -41,6 +41,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
@@ -168,6 +169,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0036-valid-sudoku) |
