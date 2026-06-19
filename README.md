@@ -213,6 +213,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0435-non-overlapping-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
