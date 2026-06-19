@@ -231,6 +231,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -634,6 +635,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Combinatorics
 |  |
 | ------- |
