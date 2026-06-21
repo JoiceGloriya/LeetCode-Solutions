@@ -238,6 +238,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -408,6 +409,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0678-valid-parenthesis-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
@@ -475,6 +477,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0455-assign-cookies](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
+| [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
@@ -654,4 +657,8 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
