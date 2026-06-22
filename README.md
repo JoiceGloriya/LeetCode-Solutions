@@ -21,6 +21,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -175,6 +176,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0036-valid-sudoku) |
@@ -478,6 +480,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0435-non-overlapping-intervals) |
