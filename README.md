@@ -42,6 +42,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
@@ -94,6 +95,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0014-longest-common-prefix) |
@@ -420,6 +422,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0940-fruit-into-baskets) |
