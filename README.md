@@ -56,6 +56,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -115,6 +116,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1078-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -632,6 +634,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Topological Sort
