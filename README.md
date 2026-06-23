@@ -16,6 +16,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -73,6 +74,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0021-merge-two-sorted-lists](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
