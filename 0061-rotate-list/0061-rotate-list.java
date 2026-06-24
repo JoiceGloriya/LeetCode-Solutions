@@ -14,26 +14,25 @@ class Solution {
             return head;
         ListNode tail = head;
         int length = 1;
-        while(tail.next != null) {
+        while (tail.next != null) {
             length++;
             tail = tail.next;
         }
         k = k % length;
-        if(k == 0) return head;
+        if (k == 0)
+            return head;
         int ct = 0;
         tail.next = head;
         ListNode newTail = findNewTail(head, length - k);
         head = newTail.next;
         newTail.next = null;
-        return head;        
+        return head;
     }
 
     ListNode findNewTail(ListNode head, int length) {
-        int ct = 1;
         ListNode temp = head;
-        while(temp != null) {
-            if(ct == length) return temp;
-            ct++;
+        while (temp != null && length > 1) {
+            length--;
             temp = temp.next;
         }
         return temp;
