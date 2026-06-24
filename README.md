@@ -99,6 +99,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
@@ -164,6 +165,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0967-minimum-falling-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
 |  |
