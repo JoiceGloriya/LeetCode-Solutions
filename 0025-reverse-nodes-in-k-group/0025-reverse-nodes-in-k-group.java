@@ -8,16 +8,17 @@
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ 
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode temp = head, prevNode = null;
         while (temp != null) {
             ListNode kthNode = findKthNode(temp, k);
             if (kthNode == null) {
-                if (prevNode != null) {
+                // if (prevNode != null) {
                     prevNode.next = temp;
-                    break;
-                }
+                    return head;
+                // }
             }
             ListNode nextNode = kthNode.next;
             kthNode.next = null;
@@ -41,15 +42,14 @@ class Solution {
     }
 
     private ListNode reverse(ListNode head) {
-       ListNode temp = head;
-       ListNode prev = null;
-       while(temp != null) {
-        ListNode front = temp.next;
-        temp.next = prev;
-        prev = temp;
-        temp = front;
-       }
-       return prev;
+        ListNode temp = head;
+        ListNode prev = null;
+        while (temp != null) {
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+        }
+        return prev;
     }
-
-    }
+}
