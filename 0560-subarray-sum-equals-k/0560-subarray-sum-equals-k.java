@@ -3,17 +3,17 @@ class Solution {
         Map<Long, Integer> mpp = new HashMap<>();
         mpp.put(0L, 1);
         long prefSum = 0;
-        int maxi = 0;
+        int sum = 0;
         for (int i = 0; i < nums.length; i++) {
             prefSum += nums[i];
+            
             long rem = prefSum - k;
             if (mpp.containsKey(rem)) {
-                maxi+= mpp.get(rem);
+                sum += mpp.get(rem);
             }
 
-            mpp.put(prefSum,
-                    mpp.getOrDefault(prefSum, 0) + 1);
+            mpp.put(prefSum, mpp.getOrDefault(prefSum, 0) + 1);
         }
-        return maxi;
+        return sum;
     }
 }
