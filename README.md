@@ -221,6 +221,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0162-find-peak-element) |
@@ -279,6 +280,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0029-divide-two-integers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
