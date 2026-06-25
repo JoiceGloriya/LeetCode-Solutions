@@ -65,6 +65,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0940-fruit-into-baskets) |
@@ -243,6 +244,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
@@ -675,6 +677,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
