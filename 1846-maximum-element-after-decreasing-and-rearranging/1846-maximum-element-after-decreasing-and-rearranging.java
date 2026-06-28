@@ -5,7 +5,7 @@ class Solution {
         int n = arr.length;
 
         for (int i = 1; i < n; i++) {
-            if (Math.abs(arr[i] - arr[i - 1]) > 1) {
+            if (arr[i] - arr[i - 1] > 1) {
                 arr[i] = arr[i- 1] + 1;
             }
         }
