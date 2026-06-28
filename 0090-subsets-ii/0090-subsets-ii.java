@@ -1,23 +1,18 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        // TC -> O((2^N) *(NlogN) * (N))
-        // SC -> O((2^N) * (k) * (N))
-        List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(nums);
-        backtrack(0, nums, new ArrayList<>(), list);
-        return list;
+        return new ArrayList<>(helper(nums, 0, new ArrayList<Integer>(), new HashSet<List<Integer>>()));
     }
 
-    void backtrack(int startIndex, int[] nums, List<Integer> a, List<List<Integer>> list) {
-        list.add(new ArrayList<>(a));
-        if (startIndex == nums.length)
-            return;
-        for (int i = startIndex; i < nums.length; i++) {
-            if (i > startIndex && nums[i] == nums[i - 1])
-                continue;
-            a.add(nums[i]);
-            backtrack(i + 1, nums, a, list);
-            a.remove(a.size() - 1);
+    public HashSet<List<Integer>> helper(int[] nums, int i, List<Integer> al, HashSet<List<Integer>> list) {
+        if (i == nums.length) {
+            list.add(new ArrayList<>(al));
+            return list;
         }
+        al.add(nums[i]);
+        helper(nums, i + 1, al, list);
+        al.remove((Object) nums[i]);
+        helper(nums, i + 1, al, list);
+        return list;
     }
 }
