@@ -1,31 +1,36 @@
 class Solution {
     public void solveSudoku(char[][] board) {
         backtrack(board);
-
     }
+    //TC: O(9^E), where E = number of empty cells
+    // Worst case: O(9^81)
+
+    // SC: O(E)
+    // Worst case: O(81)
 
     boolean backtrack(char[][] board) {
-        int n = board.length;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
                 if (board[i][j] == '.') {
                     for (char c = '1'; c <= '9'; c++) {
                         if (isSafe(board, i, j, c)) {
                             board[i][j] = c;
+
                             if (backtrack(board))
                                 return true;
+
                             board[i][j] = '.';
-                        } 
+                        }
                     }
-                return false;
+                    return false;
                 }
             }
         }
         return true;
     }
 
-    boolean isSafe(char[][] board, int row, int col, char c) {
+    boolean isSafe(char[][] board, int row, int col, char c) { //O(9)
         for (int i = 0; i < 9; i++) {
             if (board[i][col] == c)
                 return false;
