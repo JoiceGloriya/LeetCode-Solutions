@@ -63,6 +63,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
@@ -160,6 +162,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0322-coin-change) |
@@ -226,6 +229,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0135-candy](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -661,6 +665,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -678,6 +683,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 ## Bucket Sort
 |  |
 | ------- |
