@@ -80,6 +80,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -113,6 +114,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -298,6 +300,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -437,6 +440,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -536,6 +540,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3790-fruits-into-baskets-ii) |
@@ -734,6 +739,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1189-maximum-number-of-balloons](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
@@ -747,6 +753,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -755,6 +762,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 ## Merge Sort
 |  |
 | ------- |
