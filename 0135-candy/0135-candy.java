@@ -7,7 +7,7 @@ class Solution {
             if (ratings[i] == ratings[i - 1]) {
                 sum += 1;
                 i++;
-                // continue;
+                continue;
             }
             int peak = 1;
             while (i < n && ratings[i] > ratings[i - 1]) {
@@ -15,13 +15,12 @@ class Solution {
                 sum += peak;
                 i++;
             }
-            int down = 0;
+            int down = 1;
             while(i < n && ratings[i] < ratings[i - 1]) {
-                down++;
                 sum += down;
+                down++;
                 i++;
             }
-            down++;
             if(down > peak) 
                 sum += down - peak;
         }
