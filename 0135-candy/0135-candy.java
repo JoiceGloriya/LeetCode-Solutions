@@ -4,10 +4,9 @@ class Solution {
         // Optimal: TC -> O(1), SC -> O(N)
         int sum = 1, i = 1, n = ratings.length;
         while (i < n) {
-            if (ratings[i] == ratings[i - 1]) {
+            while (i < n && ratings[i] == ratings[i - 1]) {
                 sum += 1;
                 i++;
-                continue;
             }
             int peak = 1;
             while (i < n && ratings[i] > ratings[i - 1]) {
