@@ -64,6 +64,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
@@ -243,6 +244,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0120-triangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
@@ -781,6 +783,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
