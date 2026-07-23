@@ -27,14 +27,15 @@ class Solution { //recursive: O(N)
         int ct = 0;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
+        
         while(!queue.isEmpty()) {
             int size = queue.size();
-            for(int i = 0; i < size; i ++) {
-                if(queue.peek().left != null) queue.offer(queue.peek().left);
-                if(queue.peek().right != null) queue.offer(queue.peek().right);
-                queue.poll();
-            }
             ct++;
+            for(int i = 0; i < size; i ++) {
+                TreeNode q = queue.poll();
+                if(q.left != null) queue.offer(q.left);
+                if(q.right != null) queue.offer(q.right);
+            }
         }
 return ct;
     }
