@@ -36,6 +36,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -244,6 +245,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -577,6 +579,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0015-3sum](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0435-non-overlapping-intervals) |
