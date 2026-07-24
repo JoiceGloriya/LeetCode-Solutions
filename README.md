@@ -121,6 +121,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -316,6 +317,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -337,6 +339,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0461-hamming-distance](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -452,6 +455,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
