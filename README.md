@@ -71,6 +71,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
+| [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
@@ -269,6 +270,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
@@ -520,6 +522,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
