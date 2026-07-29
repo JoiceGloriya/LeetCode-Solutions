@@ -1,60 +1,57 @@
 class Solution {
+
+    // TC -> O(NlogN + N)    SC -> O(N)
     public int reversePairs(int[] nums) {
         return mergeSort(nums, 0, nums.length - 1);
     }
 
-    int mergeSort(int[] nums, int low, int high) {
+    private int mergeSort(int[] arr, int low, int high) {
         int ct = 0;
-        if (low == high)
-            return ct;
+        if (low >= high)
+            return 0;
+            
         int mid = (low + high) / 2;
-        ct += mergeSort(nums, low, mid);
-        ct += mergeSort(nums, mid + 1, high);
-        ct += countRevPairs(nums, low, mid, high);
-        merge(nums, low, mid, high);
-
+        ct += mergeSort(arr, low, mid);
+        ct += mergeSort(arr, mid + 1, high);
+        ct += countPairs(arr, low, mid, high);
+        merge(arr, low, mid, high);
         return ct;
     }
 
-    void merge(int[] nums, int low, int mid, int high) {
+    private void merge(int[] arr, int low, int mid, int high) {
         int left = low;
         int right = mid + 1;
-        List<Integer> list = new ArrayList<>();
-
+        List<Integer> a = new ArrayList<>();
+        
         while (left <= mid && right <= high) {
-            if (nums[left] <= nums[right]) {
-                list.add(nums[left]);
+            if (arr[left] <= arr[right]) {
+                a.add(arr[left]);
                 left++;
             } else {
-                list.add(nums[right]);
+                a.add(arr[right]);
                 right++;
             }
         }
-
         while (left <= mid) {
-            list.add(nums[left]);
+            a.add(arr[left]);
             left++;
         }
-
         while (right <= high) {
-            list.add(nums[right]);
+            a.add(arr[right]);
             right++;
         }
-
         for (int i = low; i <= high; i++)
-            nums[i] = list.get(i - low);
+            arr[i] = a.get(i - low);
     }
 
-    int countRevPairs(int[] nums, int low, int mid, int high) {
+    private int countPairs(int[] arr, int low, int mid, int high) {
         int ct = 0;
         int right = mid + 1;
-
         for (int i = low; i <= mid; i++) {
-            while (right <= high && (long)nums[i]> 2L * nums[right])
+            while (right <= high && arr[i] > (2L * arr[right]))
                 right++;
-            ct += right - (mid + 1); // variable right ptr - initial pos of right ptr i.e "mid+1'".
+            ct += (right - (mid + 1));
         }
-
         return ct;
     }
 }
