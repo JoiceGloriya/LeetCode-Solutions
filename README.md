@@ -366,6 +366,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0200-number-of-islands](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -627,6 +628,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -687,6 +689,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -714,6 +717,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0783-search-in-a-binary-search-tree) |
