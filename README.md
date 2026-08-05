@@ -828,6 +828,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -835,6 +836,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
