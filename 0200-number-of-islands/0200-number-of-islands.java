@@ -1,34 +1,35 @@
 class Solution {
-    private void dfs(int row, int col, boolean[][] visited, char[][] grid, int n, int m) {
-        visited[row][col] = true;
+    void dfs(int row, int col, char[][] grid, boolean[][] vis) {
+        if (row < 0 || col < 0 || row >= grid.length || col >= grid[0].length || vis[row][col] || grid[row][col] == '0')
+            return;
 
-        int[] delRow = { -1, 0, 1, 0 };
-        int[] delCol = { 0, 1, 0, -1 };
+        vis[row][col] = true;
 
-        for (int i = 0; i < 4; i++) {
-            int nRow = row + delRow[i];
-            int nCol = col + delCol[i];
-            if (nRow >= 0 && nRow < n && nCol >= 0 && nCol < m
-                    && !visited[nRow][nCol] && grid[nRow][nCol] == '1')
-                dfs(nRow, nCol, visited, grid, n, m);
+        int[] dRow = { -1, 0, 1, 0 };
+        int[] dCol = { 0, -1, 0, 1 };
+
+        for (int k = 0; k < 4; k++) {
+            int r = row + dRow[k];
+            int c = col + dCol[k];
+            if (r >= 0 && r < grid.length && c >= 0 && c < grid[0].length && !vis[r][c] && grid[r][c] == '1')
+                dfs(r, c, grid, vis);
         }
     }
 
     public int numIslands(char[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        boolean[][] visited = new boolean[n][m];
-        int ct = 0;
+        int ans = 0;
+        boolean[][] vis = new boolean[n][m];
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (!visited[i][j] && grid[i][j] == '1') {
-                    ct++;
-                    dfs(i, j, visited, grid, n, m);
+                if (grid[i][j] == '1' && !vis[i][j]) {
+                    ans++;
+                    dfs(i, j, grid, vis);
                 }
             }
         }
-        return ct;
-
+        return ans;
     }
 }
