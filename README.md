@@ -375,6 +375,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0547-number-of-provinces](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -540,6 +541,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -661,6 +663,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0547-number-of-provinces](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -747,6 +750,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Memoization
@@ -838,6 +842,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -846,4 +851,8 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
