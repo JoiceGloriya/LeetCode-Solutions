@@ -1,5 +1,5 @@
 class Solution {
-    //memoization
+        //memoization
     // int func(int[] dp, int ind,int[] nums) {
     //     if(ind == 0) return nums[0];
     //     if(ind < 0) return 0;
@@ -11,23 +11,22 @@ class Solution {
 
     //     return Math.max(pick, nonPick);
     // }
-
+    
     public int rob(int[] nums) {
         int n = nums.length;
-        // int[] dp = new int[n];
+        int[] dp = new int[n];
         // Arrays.fill(dp, -1);
         // return func(dp, nums.length - 1, nums);
 
-        int prev = nums[0], prev2 = 0;
-        for (int i = 1; i < n; i++) {
-            int pick = nums[i] + prev2;
-            int nonPick = prev;
-
-            int curr = Math.max(pick, nonPick);
-            prev2 = prev;
-            prev = curr;
+        dp[0] = nums[0];
+        for(int i = 1; i < n; i ++) {
+            int pick = nums[i];
+            if(i > 1)
+                pick += dp[i  - 2];
+            int nonPick = dp[i  -1];
+            dp[i] = Math.max(pick, nonPick);
         }
-        return prev;
-
+        return dp[n - 1];
+        
     }
 }
