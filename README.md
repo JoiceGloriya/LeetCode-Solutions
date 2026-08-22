@@ -126,6 +126,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
