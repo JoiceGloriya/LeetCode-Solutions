@@ -120,6 +120,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1903-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -168,6 +169,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -525,6 +527,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
