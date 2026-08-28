@@ -315,6 +315,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1901-find-a-peak-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2227-sum-of-subarray-ranges](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2227-sum-of-subarray-ranges) |
@@ -402,6 +403,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1171-shortest-path-in-binary-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1901-find-a-peak-element-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
@@ -575,6 +577,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0794-swim-in-rising-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3501-maximize-active-section-with-trade-ii) |
