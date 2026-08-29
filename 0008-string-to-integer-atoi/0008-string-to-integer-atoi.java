@@ -13,9 +13,9 @@ class Solution {
             i++;
         while (i < n && s.charAt(i) == '0')
             i++;
-        while (i < n) {
-            if (Character.isDigit(s.charAt(i))) {
-                char c = s.charAt(i); //cuz Integer.MAX_VALUE is 2147483647
+        for(int j = i; j < n; j ++) {
+            if (Character.isDigit(s.charAt(j))) {
+                char c = s.charAt(j); //cuz Integer.MAX_VALUE is 2147483647
                 if (result > (Integer.MAX_VALUE / 10) || (result == (Integer.MAX_VALUE / 10)
                         && (c - '0') > 7)) {
                     if (sign == 1)
@@ -24,10 +24,9 @@ class Solution {
                         return Integer.MIN_VALUE;
                 } else
                     result = result * 10 + (c - '0');
-                i++;
-            } else
+            } 
+            else             //non-alphabetic character
                 return result * sign;
-
         }
         return result * sign;  // then, u re given a valid string
     }
