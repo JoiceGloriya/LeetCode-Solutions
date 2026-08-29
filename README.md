@@ -868,4 +868,8 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1021-remove-outermost-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
