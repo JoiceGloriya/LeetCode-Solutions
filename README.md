@@ -344,6 +344,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
@@ -723,6 +724,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0493-reverse-pairs) |
