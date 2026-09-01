@@ -114,6 +114,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0048-rotate-image](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
@@ -148,6 +149,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0020-valid-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0127-word-ladder) |
@@ -343,6 +345,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -509,6 +512,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1260-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2271-rearrange-array-elements-by-sign) |
