@@ -16,6 +16,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -37,6 +38,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -70,6 +72,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0128-longest-consecutive-sequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
@@ -876,4 +879,8 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
