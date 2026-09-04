@@ -8,31 +8,38 @@
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ 
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0)
             return head;
+
         ListNode tail = head;
         int length = 1;
+
         while (tail.next != null) {
             length++;
             tail = tail.next;
         }
+
         k = k % length;
         if (k == 0)
             return head;
-        int ct = 0;
+    
         tail.next = head;
-        ListNode newTail = findNewTail(head, length - k);
+        ListNode newTail = findNewTail(head, length - k); // newTail will be at length - k steps
         head = newTail.next;
         newTail.next = null;
         return head;
     }
 
     ListNode findNewTail(ListNode head, int length) {
+      
         ListNode temp = head;
-        while (temp != null && length > 1) {
+        while (temp != null) {
             length--;
+            if (length == 0)
+                return temp;
             temp = temp.next;
         }
         return temp;
