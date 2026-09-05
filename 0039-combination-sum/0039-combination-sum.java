@@ -6,17 +6,19 @@ class Solution {
     }
 
     void backtrack(int startIndex, int[] nums, int target, List<Integer> a, List<List<Integer>> list) {
-        if(target == 0) { //ArrayLists are mutable, so after adding whatvr changes you' re doing, will be reflected in list also! so always create a  cpy of 'a' list into another 1D list and add it to list like below:-
+        if (target == 0) { // ArrayLists are mutable, so after adding whatvr changes you' re doing, will be
+                           // reflected in 'list' also! so always create a cpy of 'a' into another 1D
+                           // arrlist and add it to 'list' like below:-
             // List<Integer> arr = new ArrayList<>(a);
             // list.add(arr);
 
             list.add(new ArrayList<>(a));
             return;
         }
-        if(startIndex == nums.length) {
+        if (startIndex == nums.length || target < 0) {
             return;
         }
-        if(nums[startIndex] <= target) {
+        if (nums[startIndex] <= target) {
             a.add(nums[startIndex]);
             backtrack(startIndex, nums, target - nums[startIndex], a, list);
             a.remove(a.size() - 1);
