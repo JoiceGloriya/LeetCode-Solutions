@@ -92,6 +92,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1777-determine-if-two-strings-are-close](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -106,6 +107,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -485,6 +488,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | ------- |
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0875-longest-mountain-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
