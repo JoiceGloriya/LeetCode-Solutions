@@ -40,7 +40,7 @@ class Solution {
                 nums1[k--] = nums2[j--];
         }
 
-        while (j >= 0) {
+        while (j >= 0) {//ignore while(i >= 0) case, if tahts the case, then i == k would be true, and the ans is already in crt order
             nums1[k--] = nums2[j--];
         }
 
