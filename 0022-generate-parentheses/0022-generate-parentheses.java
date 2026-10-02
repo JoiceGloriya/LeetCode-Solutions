@@ -6,13 +6,14 @@ class Solution {
     }
 
     void DFS(List<String> list, String str, int open, int close, int maxLimit) {
-        if((open == maxLimit && close == maxLimit)) { //if((open + close) == 2 * maxLimit)
+        if ((open == maxLimit && close == maxLimit)) {
             list.add(str);
             return;
         }
-        if(open < maxLimit) 
+
+        if (open < maxLimit)
             DFS(list, str + "(", open + 1, close, maxLimit);
-        if(close < open)
+        if (close < open)
             DFS(list, str + ")", open, close + 1, maxLimit);
     }
 }
