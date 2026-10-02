@@ -892,6 +892,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
