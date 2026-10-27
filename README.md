@@ -75,6 +75,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -287,6 +288,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
@@ -629,6 +631,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0088-merge-sorted-array](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
