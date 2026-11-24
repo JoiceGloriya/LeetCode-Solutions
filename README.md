@@ -77,6 +77,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
@@ -123,6 +124,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0189-rotate-array](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
@@ -293,6 +295,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
@@ -367,6 +370,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -597,6 +601,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0162-find-peak-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0493-reverse-pairs) |
@@ -632,6 +637,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0148-sort-list](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
