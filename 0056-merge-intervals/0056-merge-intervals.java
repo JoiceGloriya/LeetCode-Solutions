@@ -3,32 +3,34 @@ class Solution {
         // Naive: TC -> O(N logN) + O(2N) SC -> O(N)
 
         // Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0])); //sort based
-        // on first column
+        // // on strt index
         // List<List<Integer>> list = new ArrayList<>();
 
-        // for(int i = 0; i < intervals.length; i ++) {
-        // int start = intervals[i][0];
-        // int end = intervals[i][1];
+        // for (int i = 0; i < intervals.length; i++) {
+        //     int start = intervals[i][0];
+        //     int end = intervals[i][1];
 
-        // if(!list.isEmpty() && end <= list.get(list.size()-1).get(1)) {
-        // continue;
-        // }
+        //     if (!list.isEmpty() && end <= list.get(list.size() - 1).get(1)) { //already covered in ans list
+        //         continue;
+        //     }
 
-        // for(int j = i + 1; j < intervals.length; j ++) {
-        // if(intervals[j][0] <= end)
-        // end = Math.max(end, intervals[j][1]);
-        // else break;
-        // }
+        //     for (int j = i + 1; j < intervals.length; j++) {
+        //         if (intervals[j][0] <= end)
+        //             end = Math.max(end, intervals[j][1]);
+        //         else
+        //             break;
+        //     }
 
-        // list.add(Arrays.asList(start, end));
+        //     list.add(Arrays.asList(start, end));
         // }
 
         // int rows = list.size();
         // int[][] ans = new int[list.size()][2];
-        // for(int i = 0; i < rows; i ++) {
-        // for(int j = 0; j < 2; j ++) {
-        // ans[i][j] = list.get(i).get(j);
-        // }
+
+        // for (int i = 0; i < rows; i++) {
+        //     for (int j = 0; j < 2; j++) {
+        //         ans[i][j] = list.get(i).get(j);
+        //     }
         // }
 
         // return ans;
@@ -38,6 +40,7 @@ class Solution {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         List<int[]> list = new ArrayList<>();
         int start = intervals[0][0], end = intervals[0][1];
+        
         for (int[] arr : intervals) {
             if (arr[0] <= end)
                 end = Math.max(end, arr[1]);
@@ -47,9 +50,9 @@ class Solution {
                 end = arr[1];
             }
         }
-        list.add(new int[] { start, end });
+        list.add(new int[] { start, end }); //bcoz  u would not ve addded this 
 
-        return list.toArray(new int[list.size()][]);
+        return list.toArray(new int[list.size()][2]);
 
     }
 }
