@@ -926,4 +926,8 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0141-linked-list-cycle) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
