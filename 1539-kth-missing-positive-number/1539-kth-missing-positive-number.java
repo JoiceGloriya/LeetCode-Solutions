@@ -18,7 +18,7 @@ class Solution {
                 end = mid - 1;
             }
         }
-        return start + k;
+        return k + end + 1;
         //return arr[high] + k - (arr[high] - (high + 1))
         // 7 + 5 -(7 -(3 + 1)) = 7 + 5 - 3 = 7 + 2 = 9
         // return end + 1 + k;
