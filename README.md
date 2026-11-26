@@ -80,6 +80,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0268-missing-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
@@ -170,6 +171,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0516-longest-palindromic-subsequence) |
@@ -573,6 +575,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0219-contains-duplicate-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0940-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1358-number-of-substrings-containing-all-three-characters) |
