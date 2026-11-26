@@ -333,6 +333,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [1288-remove-covered-intervals](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1539-kth-missing-positive-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -619,6 +620,7 @@ Welcome to *LeetCode Solutions*, a place where I keep all my LeetCode solutions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JoiceGloriya/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JoiceGloriya/LeetInPeace/tree/master/3312-sorted-gcd-pair-queries) |
