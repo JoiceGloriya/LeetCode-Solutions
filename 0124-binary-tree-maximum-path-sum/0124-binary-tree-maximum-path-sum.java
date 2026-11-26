@@ -24,9 +24,10 @@ class Solution {
     int findMax(TreeNode root, int[] maxSum) {
         if (root == null)
             return 0;
+            
         int leftSum = Math.max(0, findMax(root.left, maxSum)); //Math.max(0, ...)) ensures -ve values are ignred.
         int rightSum = Math.max(0, findMax(root.right, maxSum));
         maxSum[0] = Math.max(maxSum[0], root.val + leftSum + rightSum);
-        return root.val + Math.max(leftSum, rightSum);
+        return root.val + Math.max(leftSum, rightSum); //propagating the path-values and not the node-values during the backtracks, else nodes get repeated and will not form a valiid path
     }
 }
