@@ -11,7 +11,6 @@ class Solution {
         for (int k = 0; k < 4; k++) {
             int r = row + dRow[k];
             int c = col + dCol[k];
-            if (r >= 0 && r < grid.length && c >= 0 && c < grid[0].length && !vis[r][c] && grid[r][c] == '1')
                 dfs(r, c, grid, vis);
         }
     }
